@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently a resident doctor in **Oxford University (Medical Unit) Oxford, United Kingdom**
 
-- 👯 I’m looking to collaborate on **Pixel Extended**
+- 👯 I’m currently collaborating with  **Pixel Extended**
 
 - 🤝 I’m currently **Exploring AOSP**
 
