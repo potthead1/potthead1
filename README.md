@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently a resident doctor in **Oxford University (Medical Unit) Oxford, United Kingdom**
 
-- 👯 I’m currently collaborating with  **Pixel Extended**
+- 👯 I’m currently collaborating with  **Project Elixir and ApexOS **
 
 - 🤝 I’m currently **Exploring AOSP**
 
