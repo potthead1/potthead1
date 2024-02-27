@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekanand2507&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekanand2507" /> </p>
 
-- 🔭 I’m currently a resident doctor in **Oxford University (Medical Unit) Oxford, United Kingdom**
+- 🔭 I’m currently a resident doctor 
 
 - 👯 I’m currently collaborating with  **ApexOS**
 
