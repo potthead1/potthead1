@@ -16,9 +16,9 @@
 
 - 💬 Ask me about **Medicine , Surgery , Making Custom Roms**
 
-- 🌱 I’m currently learning **To Be the best Cardiothoracic Surgeon and A Good Dev**
+- 🌱 I’m currently learning **To Be the best Cardiothoracic Surgeon and A Good Devloper**
 
-- 📫 How to reach me **anandabhishek312@gmail.com https://t.me/DrAbhishek_anand**
+- 📫 How to reach me **anandabhishek312@gmail.com https://t.me/Abhishek_sinha0001**
 
 
 <h3 align="left">Languages and Tools:</h3>
