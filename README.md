@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
-<h3 align="center">A Doctor and Android Custom-rom devloper from India</h3>
+<h3 align="center">An Android Custom-rom devloper from India</h3>
 <img align= "right" alt= "coding" width=400 src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekanand2507&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekanand2507" /> </p>
@@ -14,9 +14,9 @@
 
 - 👨‍💻 All of my projects are available at [https://sourceforge.net/projects/evolutionxgtme/files/roms/](https://sourceforge.net/projects/evolutionxgtme/files/roms/)
 
-- 💬 Ask me about **Medicine , Surgery , Making Custom Roms**
+- 💬 Ask me about ** Making Custom Roms**
 
-- 🌱 I’m currently learning **To Be the best Cardiothoracic Surgeon and A Good Devloper**
+- 🌱 I’m currently learning **To Be A Good Devloper**
 
 - 📫 How to reach me **anandabhishek312@gmail.com https://t.me/Abhishek_sinha0001**
 
